@@ -1,6 +1,6 @@
-# flutter_app_gif_finder
+# Gif Finder
 
-Gif finder
+Find and share gifs with your friends
 
 ## Getting Started
 
